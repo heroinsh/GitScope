@@ -15,7 +15,7 @@ Simply clone the repository and run the script. GitScope will handle installing 
 
 ### Clone the Repo:
 ```bash
-git clone https://github.com/yourusername/GitScope.git
+git clone https://github.com/heroinsh/GitScope
 cd GitScope
 python gitscope.py
 ```
